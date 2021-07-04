@@ -1,7 +1,3 @@
-# 26thmay_B1_DEVOPS_Python
-
-# Menu.py
-```
 import time
 import os
 import getmac
@@ -61,7 +57,3 @@ while(True):
         exit()
     else :
         print("Please Enter a Valid Choice: ")
-        
-        
-    ```    
-
